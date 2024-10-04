@@ -1,19 +1,5 @@
 # bmi_calculator
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This app features a simple and smooth user interface. Just select your gender, height, and weight, and it will display your current health condition along with personalized advice
 
 #Output
 ![Screenshot_1676956677](https://user-images.githubusercontent.com/114842734/220254314-8aee0157-b1a0-464a-932b-815499c193cd.png)
